@@ -41,9 +41,11 @@ Armed with a Bachelor of Commerce (Honours) degree from Banaras Hindu University
 ## 📂 Production-Ready Repositories
 
 ### 🗄️ Relational Database Infrastructure
-*   🛒 **[SQL-Joins-Customer-Analytics](https://github.com/CHANGE-TO-YOUR-USERNAME/SQL-Joins-Customer-Analytics)**: A comprehensive relational database audit engineered in MySQL to isolate system processing exceptions and prevent revenue drops[cite: 1].
+*   🛒 ** * [SQL-Joins-Customer-Analytics](01_Revenue_Assurance_Audit/) – *Working*: A comprehensive relational database audit engineered in MySQL to isolate system processing exceptions and prevent revenue drops[cite: 1].
 
 ### 📊 Business Intelligence & Financial Artifacts
+* [SQL-Case-Study-World-Data](02_SQL_Case_Study_World_Data/) – *Completed*
+    * Leveraging `INNER JOIN` for data unification and `AVG()` for regional economic benchmarking.
 *   📈 *[Upcoming]* Interactive Corporate Financial Performance Dashboard (P&L and Expense Variance Tracking) in Power BI.
 *   🐍 *[Upcoming]* Automated Financial Dataset Cleaning Pipeline via Python Pandas.
 
