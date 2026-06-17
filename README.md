@@ -41,7 +41,7 @@ Armed with a Bachelor of Commerce (Honours) degree from Banaras Hindu University
 ## 📂 Production-Ready Repositories
 
 ### 🗄️ Relational Database Infrastructure
-*   🛒 ** * [SQL-Joins-Customer-Analytics](01_Revenue_Assurance_Audit/) – *Working*: A comprehensive relational database audit engineered in MySQL to isolate system processing exceptions and prevent revenue drops[cite: 1].
+*   🛒 **  [SQL-Joins-Customer-Analytics](01_Revenue_Assurance_Audit/) – *Working* A comprehensive relational database audit engineered in MySQL to isolate system processing exceptions and prevent revenue drops[cite: 1].
 
 ### 📊 Business Intelligence & Financial Artifacts
 * [SQL-Case-Study-World-Data](02_SQL_Case_Study_World_Data/) – *Completed*
